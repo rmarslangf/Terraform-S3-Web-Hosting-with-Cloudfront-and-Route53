@@ -1,0 +1,6 @@
+aws_region = "AWS region you want to deploy / Ürünü yaratmak istediğin AWS Regionı"
+bucket_name = "New bucket name for Website Hosting / Website için yeni bucket adı"
+acm_certificate_arn = "Domain Name's ACM ARN code /Domain Name'i ACM'e kaydettikten sonra aldığınız ARN"
+domain_name = "Route53 root Domain Name/Route 53 root domain name"
+route53_zone_id = "Route53 Domain Unique ID /Route 53 Domain Benzersiz ID'si"
+aws_account_id = "Your IAM Account ID / IAM hesabınızın ID'si"
