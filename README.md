@@ -1,4 +1,4 @@
-# S3 Web Hosting with Cloudfront and Route53
+# Terraform S3 Web Hosting with Cloudfront and Route53
 <h1>Amaç/Aim</h1> 
 <h2>TR</h2>
 Bu projenin amacı, terraform kullanarak s3 ile statik bir websitesi oluşturmak. Hazır olan Route53 Domain adresini kullanarak S3 üzerinden tek tıkla bir website kurmanızı sağlamakta ve CloudFront aracılığı ile websitenize HTTPS sağlamakta. Umarım kendi websitesini yapmak isteyen herkese yardımcı olur. 
