@@ -49,7 +49,7 @@ Bir Sorun Yaşadığınızda bana ulaşmaktan çekinmeyiniz.
 
  <h2>EN</h2>
  <ul>
-<li>>1- Place the content of your website into the directory named website.</li>
+<li>1- Place the content of your website into the directory named website.</li>
 <li>2- Establish the connection between Terraform and AWS CLI via your terminal by running:</li>
 </ul>
 
