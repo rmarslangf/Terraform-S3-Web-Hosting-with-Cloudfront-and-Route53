@@ -41,7 +41,7 @@ terraform init
 terraform plan
 ```
 ```hcl
-terraform
+terraform apply
 ```
 
 Websiteniz artık kullanıma hazırdır.
